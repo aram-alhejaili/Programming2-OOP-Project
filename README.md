@@ -35,5 +35,5 @@ The purpose of this project is to apply Object-Oriented Programming principles i
 3. The program displays information about different objects created using OOP concepts.
 
 ## 👩‍💻 Author
-Aram Alhajili  
+Aram Alhejaili  
 Artificial Intelligence Student
