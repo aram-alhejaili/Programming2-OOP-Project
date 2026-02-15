@@ -26,7 +26,7 @@ The purpose of this project is to apply Object-Oriented Programming principles i
 - Interface Implementation
 - UML Class Design
 - Problem Solving
-- Logical Thinking
+- Logical Thinking 
 
 ## ▶️ How to Run
 1. Compile the Java file
